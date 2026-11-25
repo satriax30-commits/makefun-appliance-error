@@ -1,0 +1,1 @@
+{"description":"The Funniest Honest Appliance Error — a deterministic Node program writing one honest appliance error line to /output/entry.txt","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-appliance-error","scripts":{"self-check":"node main.ts --self-check","start":"node main.ts"},"type":"module","version":"1.0.0"}
